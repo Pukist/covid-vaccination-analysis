@@ -21,8 +21,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone <ссылка на ваш репозиторий>
-    cd <название_папки_проекта>
+    git clone https://github.com/Pukist/covid-vaccination-analysis
+    cd covid-vaccination-analysis
     ```
 2.  **Установите необходимые библиотеки Python:**
     ```bash
@@ -47,7 +47,8 @@
 
 ## Автор
 
-[Чернявский Данил]
+Чернявский Данил
+
 [[Ссылка на GitHub профиль]](https://github.com/Pukist)
 
 ## Лицензия
